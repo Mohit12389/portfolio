@@ -89,7 +89,7 @@ export const projects = [
     id: 2,
     title: "BillBuddy",
     des: "Smartly split bills with friends, track dues via email reminders, and get monthly spending reports.",
-    img: "/BillBuddy.png",
+    img: "/billbuddy.png",
     iconLists: [
       "/next.svg",
       "/tail.svg",
