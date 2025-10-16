@@ -69,7 +69,7 @@ const Hero = () => {
               />
             </a>
             <a
-              href="YOUR_RESUME_LINK_HERE"
+              href="https://github.com/Mohit12389/New-Resume"
               target="_blank"
               rel="noopener noreferrer"
             >

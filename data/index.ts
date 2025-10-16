@@ -339,11 +339,6 @@ export const socialMedia = [
     link: "https://github.com/Mohit12389",
   },
   {
-    id: 2,
-    img: "/twit.svg",
-    link: "https://twitter.com/mohitpanwar",
-  },
-  {
     id: 3,
     img: "/link.svg",
     link: "http://linkedin.com/in/mohit-panwar-5a84a5250",
