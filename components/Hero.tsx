@@ -69,7 +69,7 @@ const Hero = () => {
               />
             </a>
             <a
-              href="https://github.com/Mohit12389/New-Resume"
+              href="https://drive.google.com/file/d/1Yjz4G3bnKnqItX4iVjDNfIzfMHRtlOPk/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
