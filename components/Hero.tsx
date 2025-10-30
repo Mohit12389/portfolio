@@ -69,7 +69,7 @@ const Hero = () => {
               />
             </a>
             <a
-              href="https://drive.google.com/file/d/1c_mCM5HPD--4tkTut7e-Wwsj5i0_EiE5/view?usp=sharing"
+              href="https://drive.google.com/file/d/18ANlEOg4-5tEb0LPWfGIDeZUxGY-CHmd/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
