@@ -98,7 +98,7 @@ export const projects = [
       "/js.png",
       "/nextjs.png",
     ],
-    link: "https://propel-ai.vercel.app/",
+    link: "https://bills-management-ruby.vercel.app/",
   },
   {
     id: 3,
