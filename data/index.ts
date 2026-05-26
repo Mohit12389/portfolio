@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a inventry requrement system form restaurant",
+    title: "Currently woking on inventory requirement system for a restaurant.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,6 +72,36 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Catering Management System",
+    des: "Created full-stack SaaS platform for catering businesses with 8 modules including Dashboard, Event Management, Menu Builder, Inventory, Billing, and Revenue Analytics managing .",
+    img: "/Management_System.png",
+    iconLists: [
+      "/neon.png",
+      "/tail.svg",
+      "/react.png",
+      "/c.svg",
+      "/js.png",
+      "/nextjs.png",
+    ],
+    link: "https://catering-app-nine.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Bill Tracking system",
+    des: "A full-featured bill and expense management web application built for  businesses to track, manage, and analyze vendor payments in one place. The system organizes bills under categories and vendors, monitors payment status, and provides powerful reporting tools to maintain complete financial clarity. Key Features: 1. Organize bills under custom categories, each with their own vendors 2. Log detailed bill information — amount, receive date, paid date, mode of payment, vendor, and bill image 3. Filter bills by payment status, vendor, date range, or amount 4. Monitor outstanding dues per vendor and view paid vs unpaid summaries 5. Visual expense statistics with date-range-based spending breakdowns 6. Export complete reports as Excel or PDF (vendor name, bill number, dates, payment mode, image URL, subtotal, paid, unpaid)",
+    img: "/bills.png",
+    iconLists: [
+      "/neon.png",
+      "/tail.svg",
+      "/react.png",
+      "/c.svg",
+      "/js.png",
+      "/nextjs.png",
+    ],
+    link: "https://propel-ai.vercel.app/",
+  },
+  {
+    id: 3,
     title: "PropelAI",
     des: "Your AI-powered career partner — get industry insights, build standout resumes, and prep for jobs through smart quizzes.",
     img: "/propelAI.png",
@@ -86,7 +116,7 @@ export const projects = [
     link: "https://propel-ai.vercel.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "BillBuddy",
     des: "Smartly split bills with friends, track dues via email reminders, and get monthly spending reports.",
     img: "/billbuddy.png",
@@ -101,7 +131,7 @@ export const projects = [
     link: "https://billbuddy-zeta.vercel.app/",
   },
   {
-    id: 3,
+    id: 5,
     title: "FireTV",
     des: "A movie discovery hub recommending content across OTTs — with short-form trailers and trending clips.",
     img: "/firetv.png",
@@ -116,7 +146,7 @@ export const projects = [
     link: "https://github.com/Mohit12389/Fire-TV",
   },
   {
-    id: 4,
+    id: 6,
     title: "Snake-game",
     des: "Snake game bring schildhood memorys back. With modern touch , with sound effect, good animation and new UI.",
     img: "/snake.png",
